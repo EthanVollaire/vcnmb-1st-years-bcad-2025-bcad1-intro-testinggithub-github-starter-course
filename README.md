@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 Ethan was here
-Hello Ash
+Hello Ashleigh
+
 
 ## 🤓 Course overview and learning outcomes 
 
